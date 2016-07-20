@@ -11,6 +11,8 @@ public class jav8Stream1 {
 		list.add(25);
 		list.add(5);
 		
+		list.forEach(System.out::println);
+		
 		
 		/*int sumIterator = sumIterator(list);
 		System.out.println(sumIterator);*/
